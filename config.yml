@@ -31,29 +31,29 @@ steps:
   - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 2: EDIT HERE -INTERNAL COMMENT FOR STEP 2
-# - title: # the title of the step, shown to the learner in the course progress page
-#  description: # a description of the step, shown to the learner in the course progress page
+- title: 랩봇 1단계 사용전 주의사항 확인# the title of the step, shown to the learner in the course progress page
+  description: 랩봇 1단계 키트 사용시 주의해야 할 사항들 숙지# a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 3: EDIT HERE - INTERNAL COMMENT FOR STEP 3
-# - title: # the title of the step, shown to the learner in the course progress page
-#  description: # a description of the step, shown to the learner in the course progress page
+- title: 부품 확인# the title of the step, shown to the learner in the course progress page
+  description: 랩봇 1단계에 포함되어 있는 부품들의 종류와 수량을 확인해보자# a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 4: EDIT HERE - INTERNAL COMMENT FOR STEP 4
-# - title: # the title of the step, shown to the learner in the course progress page
-#  description: # a description of the step, shown to the learner in the course progress page
+- title: 프레임 조립 방법 숙지# the title of the step, shown to the learner in the course progress page
+  description: 포함된 공구를 이용하여 프레임 조립 방법을 알아보자# a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 5: EDIT HERE - INTERNAL COMMENT FOR STEP 5
-# - title: # the title of the step, shown to the learner in the course progress page
-#  description: # a description of the step, shown to the learner in the course progress page
+- title: 메인 보드의 이해# the title of the step, shown to the learner in the course progress page
+  description: 랩봇에 사용되는 메인보드에 대해 알아보자 # a description of the step, shown to the learner in the course progress page
 #  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
 #  actions: # a list of the actions that will occur when the step is triggered by an event
 #  - type: # the type of action, full list at https://lab.github.com/docs/actions
